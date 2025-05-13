@@ -1,0 +1,14 @@
+python-dotenv
+streamlit
+fitz
+PyMuPDF
+fpdf
+networkx
+plotly
+openai
+cohere
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+torch
